@@ -1,5 +1,5 @@
 ### katherina737 
 Hey there 👋,
 my name is Katie and this is my github profile.🌱 I’m currently learning HTML, CSS, JavaScript and Python and putting together portfolio projects to show.
-<img src="https://www.google.com/search?q=horse&rlz=1C1CHBF_enGB873GB873&sxsrf=APwXEdcDeMt-wtUEPglQyEeKa4IZrz9H3w:1683468053140&source=lnms&tbm=isch&sa=X&ved=2ahUKEwis8rCar-P-AhU9TaQEHSSEArYQ_AUoAXoECAIQAw&biw=1432&bih=653&dpr=1.1#imgrc=SyAvMJFk4kYWMM"/>
+<img src="https://www.thesprucepets.com/thmb/1kjJEzrw3adUl0TIOWuf24s5VPw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-909948608-5c69cd9446e0fb0001560d1a.jpg"/>
 
