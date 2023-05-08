@@ -1,6 +1,7 @@
 ### <h1>katherina737<h1/> 
 Hey there 👋,
 my name is Katie and this is my github profile.🌱 I’m currently learning HTML, CSS, JavaScript and Python and putting together portfolio projects to show.
+My ultimate goal is to land a job as Web/Software Developer.
 
 <h3>Languages I use:<h3/>
 
